@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: '',
-  name: '',
-  subtitle: '',
+  name: 'Hiroki Nakano',
+  subtitle: "I'm the Web Developer.",
   cta: '',
 };
 
@@ -21,7 +21,8 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume:
+    'https://docs.google.com/spreadsheets/d/1aMWUyybwygX827gNdfkAELAR95aEktAGuEDCvjb_bMs/edit#gid=180468472', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
